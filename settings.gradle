@@ -1,0 +1,2 @@
+include ':app', ':second_screen', ':third_screen', ':fourth_screen', ':fifth_screen', ':six_screen', ':seven_screen', ':eight_screen'
+rootProject.name='ModuleParty'
